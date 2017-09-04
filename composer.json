@@ -1,0 +1,17 @@
+{
+    "name": "mrb/quad",
+    "description": "Quad Tree implementation",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Viorel Irimia",
+            "email": "viorel.irimia@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"MRB\\": "MRB/"}
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}

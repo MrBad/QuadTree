@@ -1,2 +1,7 @@
 # QuadTree
-A simple quad tree test
+
+===
+
+A simple PHP quad tree implementation
+
+
