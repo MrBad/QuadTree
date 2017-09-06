@@ -10,8 +10,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"MRB\\": "MRB/"}
+        "psr-4": {"MRB\\QuadTree\\": "app/MRB/QuadTree"}
     },
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev"
 }
